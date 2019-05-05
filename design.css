@@ -13,7 +13,7 @@ body
 	font-family: sans-serif;
 	text-transform: uppercase;
 	font-weight: 200;
-	margin-top: 40px;
+	margin-top: 60px;
 	padding-left: 20px;
 	float: left;
 	width: 80%;
@@ -42,7 +42,7 @@ table
 {
 	margin-top: 80px;
 	text-align: center;
-	border: 2px solid #FCFF4B;
+	border: 2px solid white;
 	font-size: 22px;
 }
 table tr th
